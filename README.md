@@ -1,3 +1,4 @@
+
 # iamluv
 
 *A playground for love, code, and creativity — a showcase built with three.js, React, and raw emotion.*
@@ -65,7 +66,7 @@ cd iamluv
 npm install
 
 # 4. Start the dev server
-npm start
+npm run dev
 ```
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
@@ -76,6 +77,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 - [three.js](https://threejs.org/) – 3D rendering
 - [React](https://reactjs.org/) – UI building
+- [Vite](https://vitejs.dev/) – development server
 - [Webpack](https://webpack.js.org/) – bundling
 - [Tailwind CSS](https://tailwindcss.com/) – styling
 - [GSAP](https://greensock.com/gsap/) – animations
